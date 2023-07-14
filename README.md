@@ -24,7 +24,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 A student information system developed with Laravel. This multifunctional system serves as a centralized platform to streamline various student-related processes, enhancing efficiency and organization within educational institutions.
 
 ## Key Features:
--User-Friendly Interface
--Student Profile Management
--Course and Curriculum Management
--Grading and Assessment System
+- User-Friendly Interface
+- Student Profile Management
+- Course and Curriculum Management
+- Grading and Assessment System
